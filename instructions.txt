@@ -1,0 +1,28 @@
+Functions are resuable block code
+
+
+syntax
+function <functionName>(){
+		//function body
+	// Every function return something/result
+}
+eg.
+
+function sum(x,y){
+	   return 
+}
+
+HTML FORM
+
+HTML = Structure
+CSS  = Design
+JS   = Functionality
+
+
+<formelement onevent="somejscode" >
+
+
+Query String
+?name=value&name=value&name=value&......
+
+?fname=Anil&lname=Dollor
